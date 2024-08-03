@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta API proporciona una solución completa para gestionar una tienda en línea. Permite manejar productos, categorías, clientes, pedidos y pagos, y soporta operaciones CRUD para todas las entidades. La API está diseñada para ofrecer una experiencia de compra completa y está respaldada por un sistema de validaciones y seguridad.
+Esta API proporciona una solución completa para gestionar una tienda en línea. Permite manejar productos, categorías, clientes, pedidos y pagos, y soporta operaciones CRUD para todas las entidades. La API está diseñada para ofrecer una experiencia de compra completa.
 
 ## Características
 
