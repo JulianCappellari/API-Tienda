@@ -67,7 +67,7 @@ Esta API proporciona una solución completa para gestionar una tienda en línea.
 La API está documentada usando Swagger, que proporciona una interfaz interactiva para explorar y probar los endpoints de la API.
 
 ## Acceso a la Documentación Swagger
-URL de Swagger UI: http://localhost:8080/swagger-ui/swagger-ui/index.html#/
+URL de Swagger UI: http://localhost:8080/swagger-ui/index.html
 Nota: Asegúrate de que tu aplicación esté en ejecución y accesible en el puerto especificado para poder acceder a la interfaz Swagger.
 
 ## Funcionalidades de Swagger UI
