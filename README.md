@@ -71,9 +71,9 @@ URL de Swagger UI: http://localhost:8080/swagger-ui/index.html
 Nota: Asegúrate de que tu aplicación esté en ejecución y accesible en el puerto especificado para poder acceder a la interfaz Swagger.
 
 ## Funcionalidades de Swagger UI
-Explorar Endpoints: Navega por todos los endpoints disponibles y consulta sus descripciones.
-Probar Endpoints: Realiza solicitudes a los endpoints directamente desde la interfaz.
-Ver Modelos: Examina las estructuras de datos utilizadas en los requests y responses.
+- Explorar Endpoints: Navega por todos los endpoints disponibles y consulta sus descripciones.
+- Probar Endpoints: Realiza solicitudes a los endpoints directamente desde la interfaz.
+- Ver Modelos: Examina las estructuras de datos utilizadas en los requests y responses.
 Para más detalles sobre cómo usar Swagger UI, consulta la documentación de Swagger.
 
 
